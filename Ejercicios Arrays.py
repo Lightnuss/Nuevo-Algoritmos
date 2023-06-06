@@ -15,3 +15,7 @@ print(f'menor {arr.min()}\ndiagonal {arr.diagonal()}')
 arr2 = np.zeros((3,3), int)
 np.fill_diagonal(arr2,(range(1,4)))
 print(arr2)
+
+#prueba de cosas
+
+print('Lino')
